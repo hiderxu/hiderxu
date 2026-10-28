@@ -1,16 +1,20 @@
-## Hi there 👋
+![Intro](./hero.svg?v=1)
 
-<!--
-**hiderxu/hiderxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![About](./about-life.svg?v=1)
 
-Here are some ideas to get you started:
+![Stack](./stack.svg?v=1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![ID](./id-dashboard.svg?v=1)
+
+![Connect](./connect.svg?v=1)
+
+## Projects
+
+| Project | Description | Link |
+| --- | --- | --- |
+| Password Strength | Password strength project | [hider.mywebsitee.online](https://hider.mywebsitee.online/) |
+
+## Connect
+
+- Instagram: [@hider.xu](https://www.instagram.com/hider.xu/)
+- Website: [hider.mywebsitee.online](https://hider.mywebsitee.online/)
