@@ -4,7 +4,7 @@
 
 ![Stack](./stack.svg?v=1)
 
-![ID](./id-dashboard.svg?v=1)
+![ID](./id-dashboard.svg?v=2)
 
 ![Connect](./connect.svg?v=1)
 
